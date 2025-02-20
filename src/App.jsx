@@ -17,7 +17,7 @@ import FAQ from './components/Footer/FAQ';
 import MyOrders from './pages/MyOrders/MyOrders';
 import Categories from './components/Categories/Categories'
 
-
+//example mi hya branch madhe change kela
 const App = () => {
     const [showLogin, setShowLogin] = useState(false);
     
